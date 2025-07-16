@@ -38,12 +38,6 @@ No coding experience? No problem.
 
 ---
 
-## 📊 Sample Outputs
-
-<img src="images/gc_content_plot.png" width="500">
-
----
-
 ## 🗂️ References
 
 - [Biopython Official Site](https://biopython.org)
