@@ -27,18 +27,6 @@ To show how Biopython can be used to solve real-world problems in pharmaceutical
 
 ---
 
-## 📂 Files in This Repository
-
-| File                             | Description                                        |
-|----------------------------------|----------------------------------------------------|
-| `Case_Study_Student.ipynb`       | Guided notebook for students to complete and learn |
-| `Case_Study_Solution.ipynb`      | Fully completed version with answers and comments  |
-| `report.pdf`                     | Final scientific report (15–30 pages)              |
-| `images/gc_content_plot.png`     | Example output screenshot                          |
-| `1A8O.pdb`                       | Protein file used in Case Study 2 (Hemoglobin)     |
-
----
-
 ## 🧑‍🎓 For Beginners
 
 No coding experience? No problem.
